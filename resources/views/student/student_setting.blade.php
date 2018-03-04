@@ -35,7 +35,7 @@
                 
                   
                              
-                              <button type="submit" class="btn btn-success btn-block">Updated</button>
+                              <button type="submit" class="btn btn-success btn-block">Update</button>
                           </form>
                       </div>
                   </div>
